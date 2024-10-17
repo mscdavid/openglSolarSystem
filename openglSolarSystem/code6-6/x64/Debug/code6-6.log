@@ -1,0 +1,36 @@
+﻿  6_6.cpp
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(38,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(39,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(44,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(46,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(57,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(57,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(66,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(66,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(72,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(74,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(74,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(74,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(83,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(85,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(85,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(85,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(92,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(94,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(94,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(101,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(103,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(103,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(110,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(112,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(112,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(112,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(121,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(121,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(130,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(130,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(130,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(137,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(139,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglSolarSystem\6_6.cpp(139,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code6-6.vcxproj -> D:\SCHOOL\24-3-2\opengl\openglSolarSystem\x64\Debug\code6-6.exe
